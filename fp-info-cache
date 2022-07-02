@@ -1,4 +1,4 @@
-20186179213585098
+20187835958118420
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85595,6 +85595,13 @@ MORNSUN
 0
 4
 4
+spdf1626_lib
+Made_with_KiCAD
+
+
+0
+0
+0
 spdf1626_lib
 MiniMELF
 Diode Mini-MELF (SOD-80)

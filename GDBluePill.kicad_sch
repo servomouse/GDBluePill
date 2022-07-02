@@ -3103,7 +3103,7 @@
     (property "Reference" "R6" (id 0) (at 73.66 119.3799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47k" (id 1) (at 73.66 121.9199 0)
+    (property "Value" "1k" (id 1) (at 73.66 121.9199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "spdf1626_lib:R_0402" (id 2) (at 69.342 120.65 90)
@@ -3173,7 +3173,7 @@
     (in_bom yes) (on_board yes)
     (uuid 66a471df-9e27-4c02-97f6-035bd21a62a3)
     (property "Reference" "R5" (id 0) (at 67.31 45.72 90))
-    (property "Value" "10k" (id 1) (at 67.31 43.18 90))
+    (property "Value" "22R" (id 1) (at 67.31 43.18 90))
     (property "Footprint" "spdf1626_lib:R_0603" (id 2) (at 67.31 42.418 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3338,7 +3338,7 @@
     (property "Reference" "R8" (id 0) (at 83.82 119.3799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47k" (id 1) (at 83.82 121.9199 0)
+    (property "Value" "1k" (id 1) (at 83.82 121.9199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "spdf1626_lib:R_0402" (id 2) (at 79.502 120.65 90)
@@ -3626,7 +3626,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c5d927f6-1293-4307-a054-660de71a51d1)
     (property "Reference" "D1" (id 0) (at 54.61 16.51 0))
-    (property "Value" "D" (id 1) (at 54.61 19.05 0))
+    (property "Value" "1N5819" (id 1) (at 54.61 19.05 0))
     (property "Footprint" "spdf1626_lib:D_SOD-323" (id 2) (at 54.61 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3852,7 +3852,7 @@
     (in_bom yes) (on_board yes)
     (uuid fa537d02-b519-4f84-8bbb-b7555f509bb1)
     (property "Reference" "R4" (id 0) (at 67.31 30.48 90))
-    (property "Value" "10k" (id 1) (at 67.31 33.02 90))
+    (property "Value" "22R" (id 1) (at 67.31 33.02 90))
     (property "Footprint" "spdf1626_lib:R_0603" (id 2) (at 67.31 37.338 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3974,7 +3974,7 @@
       (reference "C12") (unit 1) (value "C") (footprint "spdf1626_lib:C_0603")
     )
     (path "/c5d927f6-1293-4307-a054-660de71a51d1"
-      (reference "D1") (unit 1) (value "D") (footprint "spdf1626_lib:D_SOD-323")
+      (reference "D1") (unit 1) (value "1N5819") (footprint "spdf1626_lib:D_SOD-323")
     )
     (path "/6d969f1e-5b4b-4ecb-bc6c-0d54d1c1f1a6"
       (reference "D2") (unit 1) (value "LED") (footprint "spdf1626_lib:LED_0603")
@@ -4010,19 +4010,19 @@
       (reference "R3") (unit 1) (value "47k") (footprint "spdf1626_lib:R_0603")
     )
     (path "/fa537d02-b519-4f84-8bbb-b7555f509bb1"
-      (reference "R4") (unit 1) (value "10k") (footprint "spdf1626_lib:R_0603")
+      (reference "R4") (unit 1) (value "22R") (footprint "spdf1626_lib:R_0603")
     )
     (path "/66a471df-9e27-4c02-97f6-035bd21a62a3"
-      (reference "R5") (unit 1) (value "10k") (footprint "spdf1626_lib:R_0603")
+      (reference "R5") (unit 1) (value "22R") (footprint "spdf1626_lib:R_0603")
     )
     (path "/583d4ae2-9f9b-4cd1-a7cd-6b9212c1fab2"
-      (reference "R6") (unit 1) (value "47k") (footprint "spdf1626_lib:R_0402")
+      (reference "R6") (unit 1) (value "1k") (footprint "spdf1626_lib:R_0402")
     )
     (path "/0020d0ea-8d9d-4dfe-880a-001f8e7583fa"
       (reference "R7") (unit 1) (value "10k") (footprint "spdf1626_lib:R_0603")
     )
     (path "/8499f39f-3e5e-42f3-95b3-892f7b645784"
-      (reference "R8") (unit 1) (value "47k") (footprint "spdf1626_lib:R_0402")
+      (reference "R8") (unit 1) (value "1k") (footprint "spdf1626_lib:R_0402")
     )
     (path "/453009bf-86df-405c-9067-ab5eb4a53754"
       (reference "SW1") (unit 1) (value "RST") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
