@@ -2793,7 +2793,7 @@
     (property "Reference" "R7" (id 0) (at 76.2 27.9399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10k" (id 1) (at 76.2 30.4799 0)
+    (property "Value" "1,5k" (id 1) (at 76.2 30.4799 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "spdf1626_lib:R_0603" (id 2) (at 75.438 29.21 90)
@@ -4019,7 +4019,7 @@
       (reference "R6") (unit 1) (value "1k") (footprint "spdf1626_lib:R_0402")
     )
     (path "/0020d0ea-8d9d-4dfe-880a-001f8e7583fa"
-      (reference "R7") (unit 1) (value "10k") (footprint "spdf1626_lib:R_0603")
+      (reference "R7") (unit 1) (value "1,5k") (footprint "spdf1626_lib:R_0603")
     )
     (path "/8499f39f-3e5e-42f3-95b3-892f7b645784"
       (reference "R8") (unit 1) (value "1k") (footprint "spdf1626_lib:R_0402")

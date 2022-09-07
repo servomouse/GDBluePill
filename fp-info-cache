@@ -1,4 +1,4 @@
-20187835958118420
+20186202373682336
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85610,20 +85610,6 @@ Diode Mini-MELF (SOD-80)
 2
 2
 spdf1626_lib
-MyHeat_logo
-
-
-0
-0
-0
-spdf1626_lib
-MyHeat_logo1
-
-
-0
-0
-0
-spdf1626_lib
 PBD1.27-40
 Through hole straight socket strip, 2x20, 1.27mm pitch, double cols (from Kicad 4.0.7), script generated
 Through hole socket strip THT 2x20 1.27mm double row
@@ -85917,6 +85903,13 @@ PCB antenna
 0
 2
 2
+spdf1626_lib
+USB_C
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+16
+13
 spdf1626_lib
 VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
 VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
